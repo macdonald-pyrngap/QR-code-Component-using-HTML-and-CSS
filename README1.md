@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/macdonald-pyrngap/QR-code-Component-using-HTML-and-CSS)
+- [Live Site URL](https://macdonald-pyrngap.github.io/QR-code-Component-using-HTML-and-CSS/)
 
 ## My process
 
@@ -46,7 +46,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Name: Macdonald Pyrngap
-- Frontend Mentor: https://www.frontendmentor.io/profile/your-username
-- GitHub: https://github.com/your-username
+- [Frontend Mentor](https://www.frontendmentor.io/profile/your-username)
+- [GitHub](https://github.com/your-username)
 
 
